@@ -1,9 +1,5 @@
-# TIL
-Today I Learned..
+# Data Science School
 
-### Lo importante que es estoy haciendo algo
-
-- Python
-- Mathmatics
-- SQL
-- etc..
+## Fast Campus _ Data Science School 
+ 
+ - Daily Study  
